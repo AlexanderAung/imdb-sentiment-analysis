@@ -1,7 +1,7 @@
 # IMDB Movie Review Sentiment Analysis
 This project implements sentiment analysis on movie reviews from the IMDB dataset using TensorFlow and Keras. The sentiment analysis task involves classifying movie reviews as positive or negative based on their text content. The dataset consists of movie reviews along with their corresponding sentiment labels.
 
-##Table of Contents
+## Table of Contents
 
 * Introduction
 * Setup
